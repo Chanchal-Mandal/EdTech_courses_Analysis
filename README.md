@@ -1,7 +1,7 @@
 # EdTech Recorded Lecture Data Analysis
 
 ## Project Overview
-This project focuses on analyzing data for an EdTech startup aiming to expand its offerings in recorded lectures. Using Power BI, we developed an interactive dashboard 
+This project focuses on analyzing data for an EdTech startup aiming to expand its offerings in recorded lectures. Using Power BI, I developed an interactive dashboard 
 to uncover insights about course categories, viewer engagement, skill relevance, and language preferences. These insights empower the startup to optimize their recorded 
 lecture services and align offerings with market demand.
 
