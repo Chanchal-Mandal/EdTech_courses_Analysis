@@ -16,13 +16,13 @@ The EdTech startup has collected data from various online platforms but needs ex
 ## Solution Approach
 To address the problem, the following steps were implemented:
 
-1. Data Cleaning and Preparation
+### 1. Data Cleaning and Preparation
 
 i. Removed inconsistencies, missing values, and duplicates from the dataset.
 
 ii. Standardized columns for categories, subcategories, languages, and instructors.
 
-2. Dashboard Development in Power BI
+### 2. Dashboard Development in Power BI
 
 i. Category Analysis: Explored course type distribution across categories to identify high-demand areas.
 
@@ -38,7 +38,7 @@ vi. Instructor Performance: Ranked the top 3 instructors per category and subcat
 
 vii. Course Duration Analysis: Investigated the relationship between course duration and views to determine optimal length preferences.
 
-3. Key Insights
+### 3. Key Insights
 
 i. Highlighted high-demand course types and the most engaging content strategies.
 
@@ -59,7 +59,8 @@ vi. Instructor Rankings: Top-performing instructors based on user ratings.
 
 vii. Duration Trends: Impact of course length on viewer preferences by category and subcategory.
 
-Technologies Used
+### Technologies Used
+
 i. Power BI: For creating interactive dashboards and visualizing insights.
 
 ii. Excel: For initial data cleaning and preparation.
